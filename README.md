@@ -1,5 +1,6 @@
 ![Cover](https://user-images.githubusercontent.com/105915583/223370044-f8703fd1-9e8f-4fe9-aadd-a5812dc67644.png)
-- 📫 How to reach me: rucci.piero@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/piero-rucci
+- or email me @: rucci.piero@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruccipiero)](https://github.com/anuraghazra/github-readme-stats)
 
