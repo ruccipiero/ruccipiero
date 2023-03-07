@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/105915583/223372902-5e540956-3aae-4015-8f41-b2e64248a3e4.png)
+![image](https://user-images.githubusercontent.com/105915583/223442492-c54d5eb3-f5a0-4848-9cc1-d086a10ab7fe.png)
 - 📫 How to reach me: www.linkedin.com/in/piero-rucci
 - or email me @: rucci.piero@gmail.com
 
