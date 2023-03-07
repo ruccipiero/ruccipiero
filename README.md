@@ -12,3 +12,4 @@ Currently working on:
 - Self driving rc pan car
 - Data analyt job announcement most used keywords pipeline and dashboard
 
+![image](https://user-images.githubusercontent.com/105915583/223375387-b6e8e369-3770-4d8c-98c9-fb42eda68d0a.png)
